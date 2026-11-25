@@ -1,0 +1,1 @@
+# devsecops-secret-scan
